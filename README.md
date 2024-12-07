@@ -111,6 +111,9 @@ vectorizer = TfidfVectorizer()
 Advantage-- Simple a& intuitive, Fixed size I/P, semantic meaning can be captured.
 Disadvantage is Spare matrix and ordering of the word completely changed, out of vocub.
 
+# N- Grams
+
+vectorizer = CountVectorizer(binary=True,ngram_range(2,3)) # It will check both bi gram and trigram.
 
 
 
