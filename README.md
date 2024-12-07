@@ -73,10 +73,18 @@ o/p will look like these
 
 Barack Obama PERSON,Honolulu GPE,Hawaii GPE,August 4, 1961 DATE
 
-Using transformers
-
+# Using transformers
 
 ![image](https://github.com/user-attachments/assets/0d97f0a1-c555-4d87-a3c9-a0829fe32c95)
+
+O/P:
+
+![image](https://github.com/user-attachments/assets/255ef85f-414b-4ae9-b0ad-4211a3bf882b)
+
+# BOW
+
+
+
 
 
 
